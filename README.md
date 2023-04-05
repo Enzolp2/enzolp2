@@ -1,7 +1,7 @@
 ### Olá! Me chamo Enzo Lemos
 
 <p>
-  Tenho 23 anos, atualmente cursando Ciências da Computação na Universidade Federal de Santa Catarina. Também faço parte do time de suporte na Adeptmec
+  👱‍♂️ Tenho 23 anos, atualmente cursando Ciências da Computação na Universidade Federal de Santa Catarina. Também faço parte do time de suporte na Adeptmec 💻
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzolp2&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
