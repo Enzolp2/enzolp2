@@ -3,7 +3,7 @@
   👱‍♂️ Tenho 23 anos, atualmente cursando Ciências da Computação na Universidade Federal de Santa Catarina. Também faço parte do time de suporte na Adeptmec 💻
 </p>
 
-### Olá! Me chamo Enzo Lemos
+### Hello! My name is Enzo Lemos
 <p>
   👱‍♂️ I'm 23 years old, currently graduating Computer Science at the Federal University of Santa Catarina. I'm also part of the support team at Adeptmec 💻
 </p>
