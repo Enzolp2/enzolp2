@@ -18,6 +18,11 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg">
+  
  
   <h2>Learning</h2>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
