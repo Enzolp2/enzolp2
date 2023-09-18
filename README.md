@@ -1,6 +1,6 @@
 ### Olá! Me chamo Enzo Lemos
 <p>
-  👱‍♂️ Tenho 23 anos, atualmente cursando Ciências da Computação na Universidade Federal de Santa Catarina. Também faço parte do time de suporte na Adeptmec 💻
+  👱‍♂️ Tenho 24 anos, atualmente cursando Ciências da Computação na Universidade Federal de Santa Catarina. Também faço parte do time de suporte na Adeptmec 💻
 </p>
 
 ### Hello! My name is Enzo Lemos
