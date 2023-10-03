@@ -5,7 +5,7 @@
 
 ### Hello! My name is Enzo Lemos
 <p>
-  👱‍♂️ I'm 23 years old, currently graduating Computer Science at the Federal University of Santa Catarina. I'm also part of the support team at Adeptmec 💻
+  👱‍♂️ I'm 24 years old, currently graduating Computer Science at the Federal University of Santa Catarina. I'm also part of the support team at Adeptmec 💻
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzolp2&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
